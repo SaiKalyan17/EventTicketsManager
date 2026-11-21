@@ -1,0 +1,5 @@
+# Optional: only needed if you deploy with `wrangler pages deploy dist`.
+# Git-connected Cloudflare Pages builds don't need this file.
+name = "event-pass-system"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-01-01"
